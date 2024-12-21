@@ -1,4 +1,4 @@
-# JKFLIPFLOP-USING-IF-ELSE
+# JK FLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
 
@@ -67,13 +67,13 @@ module jk_ff (j, k, clk, rst, q);
   endmodule
 ```
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR JK FLIPFLOP**
 
 ![ex 7](https://github.com/user-attachments/assets/5a0f63ed-f097-4ae9-877b-5623ef7a63e1)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM FOR JK FLIP FLOP**
 
 ![ex 7 wave](https://github.com/user-attachments/assets/d4ebb495-fd49-49ba-bd67-27e26d8e0e86)
 
-**RESULTS**
+**RESULT**
  JK flipflop using verilog and validating their functionality using their functional tables is verified.
